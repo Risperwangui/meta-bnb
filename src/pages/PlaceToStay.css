@@ -293,30 +293,41 @@
     }
 }
 @media screen and (min-width: 62em){
+    .restaurant{
+        font-size: 15px;
+    }
     .places{
-        margin-left: 8%;
+        margin-left: 1%;
+        font-size :15px;
     }
     .cottage{
-        margin-left: 3%;
+        margin-left: 5%;
+        font-size :15px;
     }
     
     .castle{
-        margin-left: 3%; 
+        margin-left: 5%; 
+        font-size :15px;
     }
     .fantasy{
-        margin-left: 3%;
+        margin-left: 5%;
+        font-size :15px;
     }
     .beach{
         margin-left: 3%;
+        font-size :15px;
     }
     .carbins{
         margin-left: 3%;
+        font-size :15px;
     }
     .offgrid{
         margin-left: 3%; 
+        font-size :15px;
     }
     .farm{
         margin-left: 3%;
+        font-size :15px;
     }
     .location{
         margin-left: 4%;
