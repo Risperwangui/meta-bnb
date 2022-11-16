@@ -1,0 +1,250 @@
+.places{
+    display: block;
+    /* flex-direction: row; */
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.restaurant{
+    /* width: 130px; */
+    height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #434343;
+    /* margin-left: 5%; */
+}
+
+.cottage{
+    /* width: 115px; */
+    height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #434343;
+    margin-left: 5%;
+}
+
+.castle{
+    /* width: 98px; */
+    height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #434343;  
+    margin-left: 5%; 
+}
+.fantasy{
+    /* width: 135px; */
+    height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #434343;  
+    margin-left: 5%;
+}
+.beach{
+    /* width: 82px; */
+    height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #434343;  
+    margin-left: 3%;
+}
+.carbins{
+    /* width: 99px; */
+    height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #434343;  
+    margin-left: 3%;
+}
+.offgrid{
+    /* width: 100px; */
+    height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #434343; 
+    margin-left: 3%; 
+}
+.farm{
+    /* width: 76px; */
+    height: 25px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #434343;  
+    margin-left: 3%;
+}
+.location{
+    width: 128px;
+    height: 40px;
+    font-weight: 400;
+    font-size :15px;
+    line-height: 25px;
+    color: #434343;  
+    box-sizing: border-box;
+    background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+    border: 1px solid #B4B4B4;
+    border-radius: 8px;
+    margin-left: 4%;
+    margin-top: -8px;
+}
+.homeall{
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+
+.placetostay{
+    overflow-x: hidden;
+}
+.row-footer{
+    background-color: #1D1D1E;
+    color: #FFFFFF;
+    
+}
+
+.list{
+    list-style: none;
+}
+.footer-col{
+    text-align: left;
+}
+
+.list-title{
+    margin-bottom: 15px;
+    margin-top: 35px;
+}
+
+.ig{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.bnb{
+    margin-top: 35px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.mbmb{
+    font-family: 'Red Rose';
+    width: 100%;
+    font-size: 15px;
+    margin-left: 20% !important;
+    text-align: left;
+}
+.socials{
+    margin-bottom: 15%;
+    margin-top: 20%;
+    text-align: left;
+    margin-left: 20%;
+}
+
+.font{
+    font-weight: 300;
+}
+.pic{
+    margin-top: 20px;
+}
+@media (min-width: 992px) and (max-width: 1200px){
+    .pic{
+        width: 240px;
+        height: 300px;
+    }
+}
+@media screen and (min-width: 40em){
+    .places{
+        margin-left: 5%;
+    }
+    .cottage{
+        margin-left: 2%;
+    }
+    
+    .castle{
+        margin-left: 2%; 
+    }
+    .fantasy{
+        margin-left: 2%;
+    }
+    .beach{
+        margin-left: 2%;
+    }
+    .carbins{
+        margin-left: 2%;
+    }
+    .offgrid{
+        margin-left: 2%; 
+    }
+    .farm{
+        margin-left: 2%;
+    }
+    .location{
+        margin-left: 3%;
+    }
+}
+@media screen and (min-width: 30em){
+    .places{
+        margin-left: 4%;
+    }
+    .cottage{
+        margin-left: 1%;
+    }
+    
+    .castle{
+        margin-left: 1%; 
+    }
+    .fantasy{
+        margin-left: 1%;
+    }
+    .beach{
+        margin-left: 1%;
+    }
+    .carbins{
+        margin-left: 1%;
+    }
+    .offgrid{
+        margin-left: 1%; 
+    }
+    .farm{
+        margin-left: 1%;
+    }
+    .location{
+        margin-left: 1%;
+    }
+}
+@media screen and (min-width: 62em){
+    .places{
+        margin-left: 8%;
+    }
+    .cottage{
+        margin-left: 3%;
+    }
+    
+    .castle{
+        margin-left: 3%; 
+    }
+    .fantasy{
+        margin-left: 3%;
+    }
+    .beach{
+        margin-left: 3%;
+    }
+    .carbins{
+        margin-left: 3%;
+    }
+    .offgrid{
+        margin-left: 3%; 
+    }
+    .farm{
+        margin-left: 3%;
+    }
+    .location{
+        margin-left: 4%;
+    }
+}
+
+
