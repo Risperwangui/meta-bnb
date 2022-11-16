@@ -51,10 +51,10 @@ const [opened, setOpened] = useState(false);
                         <Nav.Link eventKey="1" as={Link} to="/placetostay" className='l2'>Place to stay</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link eventKey="1" as={Link} to="/nfts" className='l'>NFTS</Nav.Link>
+                        <Nav.Link eventKey="1" as={Link} to="/nfts" className='l l1'>NFTS</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link eventKey="1" as={Link} to="/community" className='l'>Community</Nav.Link>
+                        <Nav.Link eventKey="1" as={Link} to="/community" className='l l3'>Community</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                         <input className="btn btn1" type='button' onClick={() => setOpened(true)} value="Connect Wallet"></input>

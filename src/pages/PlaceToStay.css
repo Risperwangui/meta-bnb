@@ -156,64 +156,140 @@
         height: 300px;
     }
 }
-@media screen and (min-width: 40em){
+
+@media screen and (min-width: 20em){
+    .restaurant{
+        font-size: 10px;
+    }
     .places{
-        margin-left: 5%;
+        margin-left: 4%;
+        font-size: 10px;
     }
     .cottage{
-        margin-left: 2%;
+        margin-left: 1%;
+        font-size: 10px;
     }
     
     .castle{
-        margin-left: 2%; 
+        margin-left: 1%; 
+        font-size: 10px;
     }
     .fantasy{
-        margin-left: 2%;
+        margin-left: 1%;
+        font-size: 10px;
     }
     .beach{
-        margin-left: 2%;
+        margin-left: 1%;
+        font-size: 10px;
     }
     .carbins{
-        margin-left: 2%;
+        margin-left: 1%;
+        font-size: 10px;
     }
     .offgrid{
-        margin-left: 2%; 
+        margin-left: 1%; 
+        font-size: 10px;
     }
     .farm{
-        margin-left: 2%;
+        margin-left: 1%;
+        font-size: 10px;
     }
     .location{
-        margin-left: 3%;
+        margin-left: 1%;
+        font-size: 10px;
+        width: 70px;
+        height: 30px;
+        margin-top: 5px;
     }
 }
 @media screen and (min-width: 30em){
+    .restaurant{
+        font-size: 10px;
+    }
     .places{
         margin-left: 4%;
+        font-size: 10px;
     }
     .cottage{
         margin-left: 1%;
+        font-size: 10px;
     }
     
     .castle{
         margin-left: 1%; 
+        font-size: 10px;
     }
     .fantasy{
         margin-left: 1%;
+        font-size: 10px;
     }
     .beach{
         margin-left: 1%;
+        font-size: 10px;
     }
     .carbins{
         margin-left: 1%;
+        font-size: 10px;
     }
     .offgrid{
         margin-left: 1%; 
+        font-size: 10px;
     }
     .farm{
         margin-left: 1%;
+        font-size: 10px;
     }
     .location{
         margin-left: 1%;
+        font-size: 10px;
+        width: 70px;
+        height: 30px;
+        margin-top: 5px;
+    }
+}
+@media screen and (min-width: 40em){
+    .restaurant{
+        font-size: 12px;
+    }
+    .places{
+        margin-left: 5%;
+        font-size: 12px;
+    }
+    .cottage{
+        margin-left: 2%;
+        font-size: 12px;
+    }
+    
+    .castle{
+        margin-left: 2%; 
+        font-size: 12px;
+    }
+    .fantasy{
+        margin-left: 2%;
+        font-size: 12px;
+    }
+    .beach{
+        margin-left: 2%;
+        font-size: 12px;
+    }
+    .carbins{
+        margin-left: 2%;
+        font-size: 12px;
+    }
+    .offgrid{
+        margin-left: 2%; 
+        font-size: 12px;
+    }
+    .farm{
+        margin-left: 2%;
+        font-size: 12px;
+    }
+    .location{
+        margin-left: 2%;
+        font-size: 15px;
+        width: 90px;
+        height: 35px;
+        margin-top: -8px;
     }
 }
 @media screen and (min-width: 62em){
@@ -244,6 +320,8 @@
     }
     .location{
         margin-left: 4%;
+        width: 128px;
+        height: 40px;
     }
 }
 

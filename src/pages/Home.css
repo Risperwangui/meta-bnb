@@ -192,3 +192,40 @@ input::placeholder{
         height: 500px;
     }
 }
+
+@media screen and (min-width: 20em){
+    .search{
+        padding-right: 40px !important;
+        padding-left: 40px !important;
+    }
+    .txt{
+        padding-right: 20px;
+    }
+}
+@media screen and (min-width: 30em){
+    .search{
+        padding-right: 40px !important;
+        padding-left: 40px !important;
+    }
+    .txt{
+        padding-right: 20px;
+    }
+}
+@media screen and (min-width: 40em){
+    .search{
+        padding-right: 50px !important;
+        padding-left: 50px !important;
+    }
+    .txt{
+        padding-right: 25px;
+    }
+}
+@media screen and (min-width: 62em){
+    .search{
+        padding-right: 60px !important;
+        padding-left: 60px !important;
+    }
+    .txt{
+        padding-right: 30px;
+    }
+}

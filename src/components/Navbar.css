@@ -15,7 +15,6 @@
 
 .place{
     width: 125px;
-
 }
 
 .nfts{
@@ -132,3 +131,43 @@
         margin-left: 110px;
     }
 }
+@media (max-width: 990px){
+    .l2{
+        margin-left: 20px;
+        width: auto;
+    }
+    .l1{
+        margin-left: -27px;
+    }
+    .l3{
+        margin-left: 15px;
+    }
+    .btn1{
+        margin-left: 25px;
+    }
+}
+/* @media screen and (min-width: 20em){
+    .l2{
+        margin-left: 130px;
+        width: auto;
+    }
+}
+@media screen and (min-width: 30em){
+    .l2{
+        margin-left: 210px;
+        width: auto;
+    }
+}
+@media screen and (min-width: 40em){
+    .l2{
+        margin-left: 300px;
+        width: auto;
+    }
+}
+@media screen and (min-width: 62em){
+    .l2{
+        margin-left: 0px;
+        width: 120px;
+    }
+}
+ */
